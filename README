@@ -1,0 +1,4 @@
+Crie um projeto React base substitua os aquivos "App.js" e "index.js";
+Baixe as dependências a seguir:
+- npx tailwindcss init
+- npm install tailwindcss
